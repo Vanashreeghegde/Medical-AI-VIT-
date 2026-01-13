@@ -1,4 +1,4 @@
-# 🔬 Medical AI: Cancer Detection with Vision Transformers (ViT)
+# 🔬 Cancer Cell Classification
 
 This repository contains the implementation of an **Explainable AI (XAI)** system for histopathology image analysis. Using the **Vision Transformer (ViT)** architecture, the model identifies malignancy in tissue patches and provides visual "Heatmaps" to explain its diagnostic reasoning.
 
