@@ -50,7 +50,7 @@ body, .gradio-container { background-color: #000000 !important; }
 
 with gr.Blocks(css=aqua_css) as demo:
     # --- HEADER & DESCRIPTION ---
-    gr.Markdown("# 🔬 MEDICAL AI: CANCER DETECTION SYSTEM")
+    gr.Markdown("# 🔬 CANCER CELL CLASIFICATION")
     
     with gr.Row():
         with gr.Column():
